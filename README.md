@@ -1,5 +1,5 @@
 ### Hi there 👋
-![capa github](https://github.com/ThWember/ThWember/blob/main/Capa_github.png) 
+![capa github](https://github.com/ThWember/ThWember/blob/main/capa_github.png) 
 <center>
   <table>
     <tr>
