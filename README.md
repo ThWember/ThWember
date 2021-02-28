@@ -1,4 +1,4 @@
-![capa github](https://github.com/ThWember/ThWember/blob/main/Github-cover.png) 
+![capa github](https://github.com/ThWember/ThWember/blob/main/github-cover.png) 
 
 
 <center>
